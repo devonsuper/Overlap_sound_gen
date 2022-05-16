@@ -25,4 +25,4 @@ A deep neural network takes a desired sound as a input and outputs coefficients.
 
 Notes:
   - a mel spectrogram is used because it represents sound on the mel scale--a scale that represents sound as humans hear it.
-  - In my imagination, the use case for this project would be an astronaut far from Earth or a diver deep in the ocean.
+  - In my imagination, the use case for this project would be for communication with an astronaut far from Earth or a diver deep in the ocean.
